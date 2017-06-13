@@ -6,7 +6,7 @@ An app that runs in the background and generates a melody every now and then bas
 
 ## Why is it?
 
-![](https://im3.ezgif.com/tmp/ezgif-3-d9e4823cbe.gif)
+![](/docs/i-dont-know.gif)
 
 ## How does it work?
 
@@ -35,7 +35,8 @@ For the first download/clone of this repo,
 
 To directly use it.
 
-1. Double click the jar from compiled folder. This will start the app in background (You can check this under processes in TaskManager).
+1. Download the jar from latest release.
+1. Double click the jar. This will start the app in background (You can check this under processes in TaskManager).
 2. Type anything, anywhere to hear a sound.
 3. To stop the app. Press `F9` key.
 
